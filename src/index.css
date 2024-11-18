@@ -1,0 +1,15 @@
+
+@import url('https://fonts.cdnfonts.com/css/amazon-ember');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Amazon Ember', sans-serif;
+}
+
+body{
+    background-color: #E3E6E6;
+}
